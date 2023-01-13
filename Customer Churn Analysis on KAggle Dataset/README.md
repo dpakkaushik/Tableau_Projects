@@ -1,6 +1,6 @@
 ### **Customer Churn Analysis**
 
-Customer churn, or attrition, is the rate at which clients opt out of purchasing more of a company’s products or services. Customer churn analysis is a method of measuring this rate. The churn rate **formula** is: (Lost Customers ÷ **Total Customers at the Start of Time Period) x 100**
+Customer churn, or attrition, is the rate at which clients opt out of purchasing more of a company’s products or services. Customer churn analysis is a method of measuring this rate. The churn rate **formula** is: **(Lost Customers ÷ Total Customers at the Start of Time Period) x 100**
 
 **Data:**   Data is taken from KAGGLE: [Data Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
